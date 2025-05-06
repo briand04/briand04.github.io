@@ -87,9 +87,9 @@ img {
     color: var(--secondaryText);
 }
 
-.name strong {
+/* .name strong {
     background-color: rgba(0, 0, 0, 0.50);
-}
+} */
 
 .section-header {
     padding-top: .5em;
