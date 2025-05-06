@@ -229,3 +229,13 @@ img {
         width: 40%;
     }
 }
+
+.button {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+  }
